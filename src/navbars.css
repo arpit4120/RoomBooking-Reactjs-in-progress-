@@ -1,0 +1,30 @@
+.main_menu {
+  background-color: #00284d;
+}
+
+.navbar {
+  color: #fff;
+  background-color: #00284d;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.navbar a {
+  color: #fff;
+  font-size: 1.8rem;
+}
+
+.navbar-toggler {
+  background-color: white;
+}
+
+.navbar li {
+  margin-left: 20px;
+}
+.navbar a:hover {
+  color: paleturquoise;
+}
+
+.navbar li a {
+  font-size: medium;
+}

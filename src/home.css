@@ -1,0 +1,10 @@
+.home {
+  color: blue;
+}
+
+#buttondiv {
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+  justify-self: center;
+}
